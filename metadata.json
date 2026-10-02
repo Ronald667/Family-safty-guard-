@@ -1,0 +1,6 @@
+{
+  "name": "SafeHaven GBV & Family Safety",
+  "description": "Comprehensive GBV prevention, emergency SOS alerts, secure anonymous reporting, verified support directory, and child safety oversight platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
